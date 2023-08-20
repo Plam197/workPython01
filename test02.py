@@ -1,0 +1,6 @@
+print("hi...")
+print("hey...")
+print(123456)
+print(True)
+print("False")
+print("S6519410051")
